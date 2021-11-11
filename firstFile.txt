@@ -1,7 +1,7 @@
 line 1mod
 line 2mod
-line 3
-line 4
+line 3last
+line 4last
 line 5mod
 line 6mod
 line 7
